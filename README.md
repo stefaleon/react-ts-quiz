@@ -5,3 +5,7 @@ by [Weibenfalk](https://www.youtube.com/user/Weibenfalk)
 ```
 $ npx create-react-app . --template typescript
 ```
+
+```
+npm i styled-components @types/styled-components
+```
